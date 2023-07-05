@@ -1,0 +1,2 @@
+var lienzo = document.getElementById ()
+
